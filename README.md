@@ -9,7 +9,7 @@ C++ &amp; C# Stealer.
 
 Invite Link https://discord.gg/zerxia
 
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Zerxia </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="[discord server](https://discord.gg/zerxia)">
 
