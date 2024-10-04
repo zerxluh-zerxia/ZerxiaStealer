@@ -9,7 +9,7 @@ C++ &amp; C# Stealer.
 
 Invite Link https://discord.gg/zerxia
 
-<h1 align="center"> Zerxia ??/?/2024 </h1> <br>
+<h1 align="center"> ??/?/2024 </h1> <br>
 <p align="center">
   <a href="[discord server](https://discord.gg/zerxia)">
 
