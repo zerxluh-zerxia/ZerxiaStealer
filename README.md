@@ -7,8 +7,8 @@ C++ &amp; C# Stealer.
 
 * Our database is held by the owner, nobody else ensuring 0 possibilities of a DB leak.
 
-  <summary> Server: soon
-  <summary> Website: soon
+> Server: soon
+> Website: soon
 
 <h1 align="center"> ??/?/2024 </h1> <br>
 <p align="center">
