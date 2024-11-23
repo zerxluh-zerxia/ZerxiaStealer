@@ -13,17 +13,6 @@ C++ &amp; C# Stealer.
 <p align="center">
   <a href="[discord server](https://discord.gg/zerxia)">
 
-    
-
-
-
-
-
-
-
-
-
-
 ## Other
 > This project is still in development and in works, this can change and new things will be added in the future.
 - [More About The Owner](https://guns.lol/zerxluh)
