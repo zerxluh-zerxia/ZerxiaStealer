@@ -14,7 +14,8 @@ C++ &amp; C# Stealer.
   <h1 align="center"> Table Of Features </h1> <br>
 
   * Browser Data: Steals passwords, cookies & history.
- d
+
+c
     
       
 
