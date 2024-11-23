@@ -13,6 +13,8 @@ C++ &amp; C# Stealer.
 
   <h1 align="center"> Table Of Features </h1> <br>
 
+      
+
 
 ## Other
 > This project is still in development and in works, this can change and new things will be added in the future.
