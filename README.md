@@ -13,8 +13,11 @@ C++ &amp; C# Stealer.
 
   <h1 align="center"> Table Of Features </h1> <br>
 
-* Browser Data: Steals passwords, cookies & history.
-* c
+- **Search Engine INFO**: Steals passwords, cookies & history from the Search Engines below.
+  - Chrome
+  - Opera
+  - Opera GX
+  - Brave
       
 
 
