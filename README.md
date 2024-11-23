@@ -8,7 +8,7 @@ C++ &amp; C# Stealer.
 * Our database is held by the owner, nobody else ensuring 0 possibilities of a DB leak.
 
 
-<h1 align="center"> ??/?/2024 </h1> <br>
+<h1 align="center"> Table Of Features </h1> <br>
 <p align="center">
   <a href="[discord server](https://discord.gg/zerxia)">
 
