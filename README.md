@@ -13,7 +13,7 @@ Server: soon Website: soon
 <p align="center">
   <a href="[discord server](https://discord.gg/zerxia)">
 
-    ## TOF - Table Of Features
+    hi
 
 
 
