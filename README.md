@@ -18,7 +18,18 @@ C++ &amp; C# Stealer.
   - Opera
   - Opera GX
   - Brave
-      
+- **Crypto Wallets**: Steals passwords, backup codes & other info from the Crypto Wallets below.
+  - Exodus
+  - Atomic Wallet
+  - MetaMask
+- **2FA Codes**: Steals 2FA Codes from the apps below.
+  - Epic Games
+  - Discord
+  - Steam
+ 
+### ⚠️ Warning
+
+This project is intended strictly for educational purposes & search.
 
 
 > This project is still in development and in works, this can change and new things will be added in the future.
