@@ -13,7 +13,7 @@ C++ &amp; C# Stealer.
 
   <h1 align="center"> Table Of Features </h1> <br>
 
-        ## WALLETS
+        2FA CODES, Steals two-factor authentication codes.
       
 
 
