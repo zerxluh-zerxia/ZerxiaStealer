@@ -16,7 +16,6 @@ C++ &amp; C# Stealer.
       
 
 
-## Other
 > This project is still in development and in works, this can change and new things will be added in the future.
 - [More About The Owner](https://guns.lol/zerxluh)
 - [More About The Co-Owner](https://e-z.bio/baviolie)
