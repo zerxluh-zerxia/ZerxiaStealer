@@ -10,7 +10,6 @@ C++ &amp; C# Stealer.
 
 
 <h1 align="center"> Table Of Features </h1> <br>
-<p align="center">
 
 
 
