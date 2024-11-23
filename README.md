@@ -13,6 +13,8 @@ C++ &amp; C# Stealer.
 <p align="center">
   <a href="[discord server](https://discord.gg/zerxia)">
 
+    <h1 align="center"> Table Of Features </h1> <br>
+<p align="center">
     hi
 
 
